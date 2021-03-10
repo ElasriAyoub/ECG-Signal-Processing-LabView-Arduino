@@ -5,13 +5,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/ElasriAyoub">
-    <img src="/Memory.png" alt="Logo" width="250" height="250">
+    <img src="/Memory.png" alt="Logo" width="700" height="550">
   </a>
 
-  <h3 align="center">Smart Parking Project</h3>
+  <h3 align="center">ECG Signal Processing</h3>
 
   <p align="center">
-   Using ARDUINO and a JAVA GUI!
+   Using ARDUINO and LabView!
     <br />
     <a href="https://github.com/ElasriAyoub"><strong>Check all my projects</strong></a>
     <br />
@@ -21,50 +21,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Parking spots nowadays are fundamental. The increase of vehicles and parkingsmakes it difficult for drivers to find vacant parking spaces rapidly. For a Parking company, it’s hard to supervise all of its parking manually, wasting time, energy, and patience.
-In the 21st Century, time is gold. So wasting time is a meager problem to identify the spots of its parking in Real-Time.
-
-Here's the solution:
-* Each parking supervisor had a Desktop Application that allows him to track the vehicles in the parking in Real Time.
-* Using the technology of Light Sensors (LDR) to track the presence each vehicle.
-* Vehicle informations are stored in a Database. 
-
-A good reflection is to answer the questions of type **WWWHW**.
-
-***What*** :
-Application for the supervisor to supervise in Real-Time the Occupied/Vacant places
-and the state of the barriers.
-
-***Who*** :
-Parking supervisors of the parking.
-
-***When*** :
-All the time.
-
-***Why*** :
-Make the supervising of the parking easy and fast.
-Autonomous Parking.
-
-***How*** :
-The supervisor authenticates himself to be connected to the interface where he can see the Occupied/Vacant places and if there is a problem within the barriers.
-The vehicle will be detected then Arduino will check if there is an empty place then open the barrier or maintain it close.
+The objective of this study is to produce a similator that is used to simulate an ECG signal through data recorded from a person through the combination of Arduino and LabView.
+This Application will be used to analyze the heart condition of a person without having to transport it to a hospital (minimal cost).
+In addition to this simulation, the application will analyze the condition of this person and alert us by a buzzer during the passage of this ECG signal.
 
 ### Built With
 
 This project was built using multiple tools:
-* [Java](https://www.java.com/en/)
+* [LabView](https://www.ni.com/en-lb/shop/labview.html)
 * [C++](https://isocpp.org/)
-* [SQL](https://www.phpmyadmin.net/)
 * [Arduino](https://www.arduino.cc/)
 
-<!-- GETTING STARTED -->
-## Prototyping
-
-1. Sizing of the prototype.
-2. Cut the necessary parts of the Plexiglass.
-3. Drilling the necessary holes for the LDRs.
-4. Gluing of the parts
-5. Serial communication between the Arduino MEGA and the PC.
 
 ### Installation
 
@@ -75,8 +42,9 @@ This project was built using multiple tools:
 2. Install the packages
 3. Install the Arduino IDE
    -> https://www.arduino.cc/
-4. Install the Eclipse IDE
-   -> https://www.eclipse.org/
+4. Install LabView
+   -> https://www.ni.com/en-lb/shop/labview.html
+5. Run the executable.   
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -93,7 +61,7 @@ Contributions are what make the open source community such an amazing place to b
 
 AYOUB EL ASRI - [@Ayoub El Asri](https://www.facebook.com/el.asriiii/) - elasri.ayoub@yahoo.com
 
-Project Link: [https://github.com/ElasriAyoub/Smart-Parking-Arduino-GUI-JAVA](https://github.com/ElasriAyoub/Smart-Parking-Arduino-GUI-JAVA)
+Project Link: [https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabView-Arduino/](https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabView-Arduino/)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elasri-ayoub/
