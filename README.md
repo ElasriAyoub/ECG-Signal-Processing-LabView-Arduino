@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ElasriAyoub">
-    <img src="Demo/Smart-Parking.png" alt="Logo" width="250" height="250">
+    <img src="/Memory.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Smart Parking Project</h3>
