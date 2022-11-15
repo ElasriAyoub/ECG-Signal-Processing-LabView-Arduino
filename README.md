@@ -57,5 +57,3 @@ Project Link: [https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabV
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elasri-ayoub/
 [product-screenshot]: Demo/Smart-Parking.png
-
-
