@@ -43,7 +43,7 @@ This project was built using multiple tools:
    -> https://www.arduino.cc/
 4. Install LabView
    -> https://www.ni.com/en-lb/shop/labview.html
-5. Run the executable.   
+5. Run the executablE
 
 <!-- CONTACT -->
 ## Contact
