@@ -32,7 +32,6 @@ This project was built using multiple tools:
 * [C++](https://isocpp.org/)
 * [Arduino](https://www.arduino.cc/)
 
-
 ### Installation
 
 1. Clone the repo
