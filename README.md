@@ -19,6 +19,7 @@
   </p>
 </p>
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The objective of this study is to produce a similator that is used to simulate an ECG signal through data recorded from a person using the combination of Arduino and LabView.
