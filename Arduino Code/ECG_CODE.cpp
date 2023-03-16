@@ -10012,18 +10012,20 @@ const int Sample_Time = 2778 - 2;
 unsigned int datoi = 0;
 
 
-void setup() {
+void setup() 
+{
   Serial.begin(9600);
   delay(1000);
 }
 
 void loop() {
-  for (int i = 0 ; i < (sizeof(u16data) / sizeof(int)) ; i++) {
-   while ((act_time - pas_time) < Sample_Time) {
+  for (int i = 0 ; i < (sizeof(u16data) / sizeof(int)) ; i++) 
+  {
+   while ((act_time - pas_time) < Sample_Time) 
+   {
       act_time = micros();
     }
     datoi = pgm_read_word_near(u16data + i);
-
     Serial.print(datoi);
     Serial.println("A");
     pas_time = act_time;
