@@ -10009,9 +10009,8 @@ const PROGMEM uint16_t u16data[] = {
 unsigned int act_time = 0;
 unsigned int pas_time = 0;
 const int Sample_Time = 2778 - 2;
-
-
 unsigned int datoi = 0;
+
 
 void setup() {
   Serial.begin(9600);
